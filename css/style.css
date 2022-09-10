@@ -189,7 +189,7 @@ body {
 }
 
 .offer {
-  background: #191919 url("/img/offer/bg.jpg") 0 0/100% auto no-repeat;
+  background: #191919 url("../img/offer/bg.jpg") 0 0/100% auto no-repeat;
 }
 
 .offer__container {
